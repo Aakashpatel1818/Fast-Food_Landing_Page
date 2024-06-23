@@ -13,6 +13,6 @@ style.css: Contains the styling for the landing page.
 Preview
 
 # Usage
-Clone the repository: git clone https://github.com/Aakashpatel1818/fast-food-landing-page.git
+Clone the repository: git clone https://github.com/Aakashpatel1818/fast-food_landing_page.git
 Navigate to the project directory: cd fast-food-landing-page
 Open index.html in your browser to view the landing page.
